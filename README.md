@@ -1,6 +1,6 @@
-# Assasin Dork Scanner v2.0
+# Assasin Dork Scanner v1.1
 
-Assasin Dork Scanner v2.0, Google üzerinden özel dork sorguları ile hedef sistemler hakkında bilgi toplayan ve hedef sistemdeki sql ve xss açıklarını test edebilen bir araçtır.
+Assasin Dork Scanner v1.1, Google üzerinden özel dork sorguları ile hedef sistemler hakkında bilgi toplayan ve hedef sistemdeki sql ve xss açıklarını test edebilen bir araçtır.
 
 ## ℹ️ Özellikler
 
