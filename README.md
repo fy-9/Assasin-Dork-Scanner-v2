@@ -18,7 +18,7 @@ Python 3.8+ sürümü ve Google Chrome yüklü olmalıdır.
 
 Sisteme uygun ChromeDriver indirilip çalıştığınız klasöre atılmalı veya PATH'e eklenmelidir.
 
-`git clone https://github.com/fy-9/Assasin-Dork-Scanner`
+`git clone https://github.com/fy-9/Assasin-Dork-Scanner-v2/`
 
 `pip install -r requirements.txt`
 
